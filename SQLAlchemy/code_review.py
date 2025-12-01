@@ -108,5 +108,7 @@ cli.add_command(view_portfolio)
 cli.add_command(add_investment)
 cli.add_command(add_portfolio)
 cli.add_command(clear_database)
+
 if __name__ == "__main__":
     cli()
+
